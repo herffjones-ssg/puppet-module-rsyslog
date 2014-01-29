@@ -1,0 +1,7 @@
+rsyslog
+
+This is the rsyslog module.
+
+Check out
+https://github.com/saz/puppet-rsyslog/blob/master/templates/server.conf.erb for
+the ability of the server to log to different files for each host

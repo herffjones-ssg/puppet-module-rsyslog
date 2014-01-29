@@ -1,0 +1,11 @@
+name    'ghoneycutt-rsyslog'
+version '0.1.0'
+source 'UNKNOWN'
+author 'ghoneycutt'
+license 'Apache License, Version 2.0'
+summary 'UNKNOWN'
+description 'UNKNOWN'
+project_page 'UNKNOWN'
+
+dependency 'ghoneycutt/sysklogd, '>= 0.0.1'
+dependency 'ghoneycutt/common, '>= 0.0.1'
